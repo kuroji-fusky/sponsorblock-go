@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	sb "github.com/porjo/sponsorblockgo"
+	sb "github.com/kuroji-fusky/sponsorblock-go"
 )
 
 func main() {

@@ -5298,4 +5298,3 @@ func ParsePostWarnUserResponse(rsp *http.Response) (*PostWarnUserResponse, error
 
 	return response, nil
 }
-
